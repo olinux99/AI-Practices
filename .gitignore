@@ -1,0 +1,13 @@
+#for mac
+*/.Ds_Store
+.DS_Store
+
+#for big datasets
+*/data/
+
+#for jupyter notebook
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+#for colab
+commit_from_colab.ipynb
